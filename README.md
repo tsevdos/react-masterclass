@@ -1,4 +1,7 @@
-# JS masterclass
+# React masterclass
+
+<!-- ## Table of Contents
+## TODO -->
 
 ## Course prerequisites
 
@@ -43,6 +46,3 @@ After installing node please verify that you have setup everything correctly by 
 
 - `node -v` ➡️ `v22.11.0` (any version >= 18 is fine, in my case the version is specifically v22.11.0)
 - `npm -v` ➡️ `10.9.0` (any version >= 9 is fine, in my case the version is specifically 10.9.0)
-
-<!-- ## Table of Contents
-## TODO -->
